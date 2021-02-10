@@ -49,3 +49,13 @@ def fun():
 `
 fun()
 `
+## task
+```
+def fun():
+
+    print("welcome to kits")
+```
+## function calling
+`
+fun()
+`
