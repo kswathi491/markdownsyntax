@@ -67,3 +67,5 @@ fun()
 
 ## add college website link
 [college](https://www.kcit.com/)
+## inserting images
+![flower](https://github.com/kswathi491/markdownsyntax/blob/master/rose_white_rose_flower_216547.jpg)
