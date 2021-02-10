@@ -63,5 +63,7 @@ fun()
 [google](https://www.google.com/)
 
 ## add gmail link
-## add college website link
 [gmail](https://www.gmail.com/)
+
+## add college website link
+[college](https://www.kcit.com/)
