@@ -69,3 +69,5 @@ fun()
 [college](https://www.kcit.com/)
 ## inserting images
 ![flower](https://github.com/kswathi491/markdownsyntax/blob/master/rose_white_rose_flower_216547.jpg)
+## inserting videos
+[![periodictablev](https://img.youtube.com/vi/eW4l2DQ0n4s/0.jpg)](https://www.youtube.com/watch?v=eW4l2DQ0n4s)
