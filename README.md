@@ -24,3 +24,11 @@ __*sample text*__
 >> swathi
 >>> prasanna
 >>>> sai
+## ordered list
+1. ECE
+2. EEE
+3. CSE  
+  1. CSEA
+  2. CSEB
+  3. CSEC
+4. civil
